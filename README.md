@@ -74,5 +74,7 @@ Password_manager/
 ---
 
 👤 Author
+
 Rachit Basnet
+
 📧 rachitbasnet184@gmail.com
